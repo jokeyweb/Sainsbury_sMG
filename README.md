@@ -1,4 +1,8 @@
 GitHubRepository: https://github.com/jokeyweb/Sainsbury-sG.git
+Author: Matteo Gagliardi
+Date: 18/03/2018
+
+The application is reading an HTML page and returns the products info in a JSON string. The IDE used is NetBeans 8.0.
 ---Dependencies
 		- Java 8 JDK installed in the system
 		- Build tool: Maven 3.5.3 (please follow link to install and configure properly)
